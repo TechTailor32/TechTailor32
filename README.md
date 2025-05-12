@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 # 👋 Hi, welcome to TechTailor32
 
 I'm a builder at heart — part developer, part systems thinker, part strategist. My work sits at the intersection of technical depth and business value: I love connecting tools, teams, and ideas to turn smart code into real outcomes.
@@ -27,5 +24,3 @@ If you’re solving hard problems with thoughtful code — or trying to explain 
 ---
 
 *“Build smart. Scale simply. Make it work for people.”*
-
--->
